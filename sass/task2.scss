@@ -1,0 +1,17 @@
+body {
+    width: 600px;
+}
+
+// $color: (green,red) ,$border solid groove 
+$p:p-2;
+$x:0;
+@each $color,
+$border in (green, 2px solid),
+(red, 2px groove),
+(blue, 2px dotted) {
+    $x: $x+1;
+    .show-#{$x} {
+        background-color: $color;
+        border: $border;
+    }
+}

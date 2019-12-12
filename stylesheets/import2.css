@@ -1,0 +1,10 @@
+/* line 1, ../sass/import2.scss */
+body {
+  width: 600px;
+}
+
+/* line 9, ../sass/import2.scss */
+.text {
+  color: red;
+  font: 22px bold;
+}

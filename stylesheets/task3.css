@@ -1,0 +1,27 @@
+/* line 1, ../sass/import1.scss */
+body {
+  width: 600px;
+}
+
+/* line 12, ../sass/import1.scss */
+.text1 {
+  color: gray;
+  font: 28px bold;
+}
+
+/* line 12, ../sass/import1.scss */
+.text2 {
+  color: blue;
+  font: 16px bold;
+}
+
+/* line 1, ../sass/import2.scss */
+body {
+  width: 600px;
+}
+
+/* line 9, ../sass/import2.scss */
+.text {
+  color: red;
+  font: 22px bold;
+}

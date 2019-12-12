@@ -1,0 +1,35 @@
+/* line 1, ../sass/test.scss */
+body {
+  width: 600px;
+}
+/* line 4, ../sass/test.scss */
+body header {
+  background-color: white;
+  border: 2px solid blue;
+}
+/* line 7, ../sass/test.scss */
+body header P {
+  color: blue;
+  font-weight: bold;
+  font-size: 22px;
+}
+/* line 13, ../sass/test.scss */
+body #cont {
+  border: 2px solid blue;
+  background-color: black;
+}
+/* line 16, ../sass/test.scss */
+body #cont p {
+  font-size: 22px;
+  color: white;
+  border: 2px solid blue;
+}
+/* line 22, ../sass/test.scss */
+body footer {
+  border: 2px solid green;
+  background-color: black;
+}
+/* line 25, ../sass/test.scss */
+body footer p {
+  color: white;
+}

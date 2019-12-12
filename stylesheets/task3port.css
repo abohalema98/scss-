@@ -1,0 +1,16 @@
+/* line 1, ../sass/task3port.scss */
+body {
+  width: 600px;
+}
+
+/* line 12, ../sass/task3port.scss */
+.text1 {
+  color: gray;
+  font: 28px bold;
+}
+
+/* line 12, ../sass/task3port.scss */
+.text2 {
+  color: blue;
+  font: 16px bold;
+}

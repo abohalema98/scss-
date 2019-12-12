@@ -1,0 +1,22 @@
+/* line 1, ../sass/task2.scss */
+body {
+  width: 600px;
+}
+
+/* line 13, ../sass/task2.scss */
+.show-1 {
+  background-color: green;
+  border: 2px solid;
+}
+
+/* line 13, ../sass/task2.scss */
+.show-2 {
+  background-color: red;
+  border: 2px groove;
+}
+
+/* line 13, ../sass/task2.scss */
+.show-3 {
+  background-color: blue;
+  border: 2px dotted;
+}
